@@ -13,7 +13,7 @@ This project is a solution to the [Frontend Mentor Blog Preview Card Challenge](
 
 ## Links
 
-- [Live Site](#) <!-- Add your live site URL here -->
+- [Live Site](#) https://blog-card-tau.vercel.app/
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ## My Process
